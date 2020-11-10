@@ -1,2 +1,11 @@
-# sw2020
-For submission of SW2020
+# 평가용 Repositories
+1. [summary.md](summary.md)
+2. [Transformer](https://github.com/63days/Transformer)
+3. [MAML](https://github.com/63days/MAML)
+4. [AugMix](https://github.com/63days/augmix)
+5. [SimCLR](https://github.com/63days/SimCLR)
+6. [FBS](https://github.com/63days/FBS-practice)
+7. [SAT](https://github.com/63days/SAT)
+8. [FGSM](https://github.com/63days/FGSM_practice)
+9. [GCN & GAT](https://github.com/63days/GAT)
+10. [RotNet-OOD](https://github.com/63days/RotNet-OOD)

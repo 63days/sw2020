@@ -9,3 +9,6 @@
 8. [FGSM](https://github.com/63days/FGSM_practice)
 9. [GCN & GAT](https://github.com/63days/GAT)
 10. [RotNet-OOD](https://github.com/63days/RotNet-OOD)
+11. [한이음 공모전](https://github.com/63days/hanium)
+12. [Tetris](https://github.com/63days/tetris)
+13. [알고리즘 문제 풀이](https://github.com/63days/algorithm)

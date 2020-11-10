@@ -12,8 +12,8 @@
 - 담당자명: 한이음 대표전화, 02-2046-1452~9
 
 
-## 자율과제형(예시)
-- 과제수행기간 2020.7~2020.11
+## 자율과제형1
+- 과제수행기간: 2020.7~2020.11
 - 기타 정보: AI대학원 진학을 꿈꾸고 있기에 머신러닝 관련하여 최신 논문들을 읽고 코드로 직접 구현해보았습니다. 
 1. [MAML](https://github.com/63days/MAML)
 2. [AugMix](https://github.com/63days/augmix)
@@ -23,6 +23,12 @@
 6. [FGSM](https://github.com/63days/FGSM_practice)
 7. [GCN & GAT](https://github.com/63days/GAT)
 8. [RotNet-OOD](https://github.com/63days/RotNet-OOD)
+
+## 자율과제형2
+- 과제수행기간: 2017~
+- 기타 정보: 혼자서 프로그래밍 실력을 키우기 위해 1학년 때 테트리스와 같은 미니 프로젝트를 만들어보았고 프로그래밍 사고력 함양을 위해 꾸준히 알고리즘 문제를 풀었습니다. 
+1. [테트리스](https://github.com/63days/tetris)
+2. [알고리즘 문제풀이](https://github.com/63days/algorithm)
 
 ## 기타
 - 내용과 이유 등

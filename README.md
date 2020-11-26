@@ -1,4 +1,6 @@
 # 평가용 Repositories
+1차 평가 때 설명이 빈약했던 한이음 공모전, Tetris 레포지의 설명을 좀 더 자세히 덧붙였으며, 캡스톤디자인2020에 참여하며 만들었던 프로젝트도 새롭게 추가하였습니다.
+
 1. [summary.md](summary.md)
 2. [CapstoneDesign2020](https://github.com/63days/CapstoneDesign20)
 3. [MAML](https://github.com/63days/MAML)

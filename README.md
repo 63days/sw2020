@@ -1,5 +1,6 @@
 # 평가용 Repositories
 1. [summary.md](summary.md)
+2. [CapstoneDesign2020](https://github.com/63days/CapstoneDesign20)
 3. [MAML](https://github.com/63days/MAML)
 4. [AugMix](https://github.com/63days/augmix)
 5. [SimCLR](https://github.com/63days/SimCLR)
